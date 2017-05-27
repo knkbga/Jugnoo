@@ -1,0 +1,23 @@
+{
+  "name": "jugnoo_api",
+  "version": "1.0.0",
+  "description": "Assignment for Jugnoo",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knkbga/Jugnoo.git"
+  },
+  "keywords": [
+    "Jugnoo",
+    "API"
+  ],
+  "author": "Kanak Bagga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knkbga/Jugnoo/issues"
+  },
+  "homepage": "https://github.com/knkbga/Jugnoo#readme"
+}
