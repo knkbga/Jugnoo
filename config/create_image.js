@@ -33,7 +33,7 @@ exports.create_image =function(email,quote,option,callback){
 				attachments: [
 				{
 					filename: 'Output.png',
-					path: __dirname+'/output.png'
+					filePath: __dirname+'/../output.png'
 				}]
 			};
 
