@@ -14,3 +14,7 @@ option[padding] // padding for the text<br><br>
 <h3>Output Image</h3>
 
 In root directory (In 'Jugnoo' folder) with name "Output.png".
+
+<h3>Pending</h3>
+
+Attach file with email.
