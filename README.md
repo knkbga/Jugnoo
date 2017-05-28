@@ -17,4 +17,4 @@ In root directory (In 'Jugnoo' folder) with name "Output.png".
 
 <h3>Pending</h3>
 
-Attach file with email.
+Everything is working.
