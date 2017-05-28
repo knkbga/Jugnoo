@@ -1,23 +1,17 @@
 {
-  "name": "jugnoo_api",
+  "name": "node_server",
   "version": "1.0.0",
-  "description": "Assignment for Jugnoo",
-  "main": "app",
+  "description": "A Server for getting requests from our android app and getting that data stored in MongoDB Database.",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/knkbga/Jugnoo.git"
-  },
-  "keywords": [
-    "Jugnoo",
-    "API"
-  ],
   "author": "Kanak Bagga",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/knkbga/Jugnoo/issues"
-  },
-  "homepage": "https://github.com/knkbga/Jugnoo#readme"
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "~4.0.0",
+    "nodemailer": "~0.6.3",
+    "text2png": "^1.0.1"
+  }
 }
