@@ -18,3 +18,7 @@ In root directory (In 'Jugnoo' folder) with name "Output.png".
 <h3>Pending</h3>
 
 Everything is working.
+
+<h3>Heroku URL</h3>
+
+https://frozen-sea-66917.herokuapp.com/
