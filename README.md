@@ -21,4 +21,7 @@ Everything is working.
 
 <h3>Heroku URL</h3>
 
-https://frozen-sea-66917.herokuapp.com/
+https://frozen-sea-66917.herokuapp.com/?font="font"&textColor="textColor"&bgColor="bgColor"&lineSpacing="lineSpacing"&padding="padding"<br><br>
+shows the image with quote specified and image details as specified in get parameters.<br><br>
+If the quote is not specified then "Quote Missing" will be displayed with padding=100.<br><br>
+'padding' and 'lineSpacing' must not be specified in quotes.
